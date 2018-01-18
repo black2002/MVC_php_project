@@ -1,0 +1,22 @@
+{
+    "name": "-/untitled9",
+    "authors": [
+        {
+            "name": "black2002",
+            "email": "muzzycomesback@gmail.com"
+        }
+    ],
+    "require": {
+
+
+        "illuminate/database":"*"
+    },
+    "autoload": {
+        "classmap": [
+"app/models"
+        ]
+
+        }
+    }
+
+
